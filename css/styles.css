@@ -1,6 +1,6 @@
 body
 {  
-    color: red;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 
@@ -18,4 +18,18 @@ body
 #container h1
 {
    font-size: 20px;
+
+}
+
+
+#CABECERA {
+    background: blueviolet;
+}
+
+#CABECERA #linea {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0 0em;
+    color: brown;
+    
 }
